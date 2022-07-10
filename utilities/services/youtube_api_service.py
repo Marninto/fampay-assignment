@@ -5,9 +5,6 @@ from django.conf import settings
 
 from utilities.constants import MAX_RESULTS
 
-# link = 'https://www.googleapis.com/youtube/v3/search/'
-# key = 'AIzaSyAmKQLI3GvT5MYkPSwBjiHakL4e5UIYi9c'
-
 
 class YoutubeService:
     @classmethod
